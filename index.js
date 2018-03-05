@@ -1,3 +1,3 @@
-import Drawer from "./drawer";
+import Drawer from "./lib/drawer";
 
 export default Drawer;
